@@ -70,9 +70,10 @@ Devido ao uso direto do BLE, este projeto **não roda com o Expo Go**.
 
 **Passos**
 ```bash
-cd navegacao-interna-visual/TotemBLE
-npm install
-npx react-native run-android
+npm i
+npx expo prebuild
+npx expo run:android
+npx expo start
 ```
 
 > Se ocorrerem erros de compilação, revise a configuração do Android SDK e as variáveis de ambiente (como `JAVA_HOME`).
