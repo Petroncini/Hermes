@@ -94,7 +94,7 @@ navegacao-interna-visual/
 ---
 
 ## 🧩 Créditos
-Protótipos desenvolvidos como parte de iniciativas de **acessibilidade e inclusão digital**, explorando sensores móveis e inteligência artificial para navegação assistida em interiores.
+Protótipos desenvolvidos como parte do HackaUSP 2025 com o tema **acessibilidade e inclusão digital**, explorando sensores móveis e inteligência artificial para navegação assistida em interiores
 ````
 
 
